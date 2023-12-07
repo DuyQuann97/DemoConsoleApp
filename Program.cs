@@ -17,8 +17,8 @@ namespace DemoConsoleApp
             float chuViHinhTron = (radius * 2) * PI;
             float dienTichHinhTron = radius*radius*PI;
 
-            Console.WriteLine("Chu vi Hinh Tron voi ban kinh = {0} la {1}",radius,chuViHinhTron);
-            Console.WriteLine("Dien tich Hinh Tron voi ban kinh = {0} la {1}", radius, dienTichHinhTron);
+            Console.WriteLine("Chu vi Hinh Tron voi R = {0} la {1}",radius,chuViHinhTron);
+            Console.WriteLine("Dien tich Hinh Tron voi R = {0} la {1}", radius, dienTichHinhTron);
 
             Console.ReadKey();
         }
