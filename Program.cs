@@ -19,6 +19,7 @@ namespace DemoConsoleApp
 
             Console.WriteLine("Chu vi Hinh Tron voi R = {0} la {1}",radius,chuViHinhTron);
             Console.WriteLine("Dien tich Hinh Tron voi R = {0} la {1}", radius, dienTichHinhTron);
+            Console.WriteLine("Cam on ban da su dung chuong trinh");
 
             Console.ReadKey();
         }
